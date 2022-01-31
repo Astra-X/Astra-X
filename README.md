@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XPREDX
 - 👀 I’m interested in web development and pentesting
 - 🌱 I’m currently learning python ,java
-- 💞️ I’m looking to collaborate on ...\|/
 - 📫 How to reach me ...
  YOU CAN REACH ME WITH MY WEBSITE..
 
