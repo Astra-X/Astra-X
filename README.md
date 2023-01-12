@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **Web and python based projects**
 
-- 👨‍💻 All of my projects are available at [127.0.0.1](127.0.0.1)
+- 👨‍💻 All of my projects are available at [this repo](https://github.com/SaazX?tab=repositories)
 
-- 📝 I regularly write articles on [127.0.0.1/blogs.html](127.0.0.1/blogs.html)
+- 📝 I regularly write articles on [blog](https://maasif.netlify.app/portfolio.html)
 
 - 💬 Ask me about **Python, Linux, Networking**
 
 - 📫 How to reach me **dynamohacker1@gmail.com**
 
-- 📄 Know about my experiences [127.0.0.1/cv.pdf](127.0.0.1/cv.pdf)
+- 📄 Know about my experiences on my [website](https://maasif.netlify.app/cv.pdf)
 
 - ⚡ Fun fact **I think I am funny and also understandable guy**
 
