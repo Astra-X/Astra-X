@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [this repo](https://github.com/SaazX?tab=repositories)
 
-- 📝 I regularly write articles on [blog](https://maasif.netlify.app/portfolio.html)
+- 📝 I regularly write articles on [blog](https://maasif.netlify.app/)
 
 - 💬 Ask me about **Python, Linux, Networking**
 
 - 📫 How to reach me **dynamohacker1@gmail.com**
 
-- 📄 Know about my experiences on my [website](https://maasif.netlify.app//cv.pdf)
+- 📄 Know about my experiences on my [website](https://maasif.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny and also understandable guy**
 
