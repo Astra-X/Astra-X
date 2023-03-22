@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm SAAZ</h1>
-<h3 align="center">A passionate frontend developer and a ethical hacker from India</h3>
+<h1 align="center">Hi 👋, I'm Astra</h1>
+<h3 align="center">A passionate developer and a BlackHat hacker from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xpredx&label=Profile%20views&color=0e75b6&style=flat" alt="SaazX" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astra-x&label=Profile%20views&color=0e75b6&style=flat" alt="astra-x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaazX" alt="Saazx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astra-x" alt="astra-x" /></a> </p>
 
 - 🔭 I’m currently working on **A.I based terminal**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web and python based projects**
 
-- 👨‍💻 All of my projects are available at [this repo](https://github.com/SaazX?tab=repositories)
+- 👨‍💻 All of my projects are available at [this repo](https://github.com/astra-x?tab=repositories)
 
 - 📝 I regularly write articles on [blog](https://maasif.netlify.app/)
 
@@ -36,6 +36,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saaz" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xpredx&show_icons=true&locale=en&layout=compact" alt="Saazx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astra-x&show_icons=true&locale=en&layout=compact" alt="Saazx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaazX&" alt="Saazx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astra-x&" alt="Saazx" /></p>
