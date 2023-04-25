@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **dynamohacker1@gmail.com**
 
-- 📄 Know about my experiences on my [website](https://maasif.netlify.app/)
+- 📄 Know about my experiences on my [website](127.0.0.1)
 
 - ⚡ Fun fact **I think I am funny and also understandable guy**
 
