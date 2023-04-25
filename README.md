@@ -13,13 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [this repo](https://github.com/astra-x?tab=repositories)
 
-- 📝 I regularly write articles on [blog](https://maasif.netlify.app/)
-
 - 💬 Ask me about **Python, Linux, Networking**
-
-- 📫 How to reach me **dynamohacker1@gmail.com**
-
-- 📄 Know about my experiences on my [website](127.0.0.1)
 
 - ⚡ Fun fact **I think I am funny and also understandable guy**
 
