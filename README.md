@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astra-x" alt="astra-x" /></a> </p>
 
-- 🔭 I’m currently working on **A.I based terminal**
+- 🔭 I’m currently working on **School Management System Using React**
 
-- 🌱 I’m currently learning **C++, Machine Learning, JS**
+- 🌱 I’m currently learning **C, EC Council Security+**
 
 - 👯 I’m looking to collaborate on **Web and python based projects**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Linux, Networking**
 
-- ⚡ Fun fact **I think I am funny and also understandable guy**
+- ⚡ Fun fact **The First Computer Mouse was Made of Wood**
 
 
 <h3 align="left">Languages and Tools:</h3>
